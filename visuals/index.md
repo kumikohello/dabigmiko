@@ -6,7 +6,7 @@ title: Visuals
 <h1>Visuals</h1>
 
 <p>Dark tones. Moonlight. Fog. Objects with history. Everything has a texture. 
-    see more on <a href="https://instagram.com/vellunea.music" target="_blank" style="color:#f4f4f4;">@vellunea.music</a>.</p>
+    see more on <a href="https://instagram.com/dabigmiko" target="_blank" style="color:#f4f4f4;">@dabigmiko</a>.</p>
 
   <div class="visual-grid">
     <img src="images/fog.jpg" alt="foggy landscape" loading="lazy" />

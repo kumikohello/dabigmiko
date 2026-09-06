@@ -18,7 +18,7 @@ hero: false
         <img src="music/images/Let_Go_2.PNG" alt="Let Go">
       </div>
       <div class="brand-tile">
-        <img src="assets/IMG_3892.JPG" alt="vellunea portrait 1">
+        <img src="assets/IMG_3892.JPG" alt="dabigmiko portrait 1">
       </div>
 
       <!-- duplicate for seamless loop -->
@@ -40,7 +40,7 @@ hero: false
   <!-- Center title block -->
   <div class="brand-center">
     <p class="brand-kicker">soundspace for nostalgia & shadows</p>
-    <h1 class="brand-title">VELLUNEA</h1>
+    <h1 class="brand-title">DaBigMiko</h1>
     <p class="brand-subtitle">music for late night walks, sleepless longing, and memories that glitch.</p>
   </div>
 
@@ -48,7 +48,7 @@ hero: false
   <div class="brand-strip brand-strip-bottom">
     <div class="brand-strip-track">
       <div class="brand-tile">
-        <img src="assets/IMG_4172.JPG" alt="vellunea portrait 2">
+        <img src="assets/IMG_4172.JPG" alt="dabigmiko portrait 2">
       </div>
       <div class="brand-tile">
         <img src="music/images/arewestillfriends.PNG" alt="arewestillfriends?">
@@ -82,7 +82,7 @@ hero: false
 
 <section>
   <h2>about</h2>
-  <p>vellunea is a soundspace for nostalgia, shadows, and memory fragments. music for late night walks, sleepless longing, and moments that never quite fade.</p>
+  <p>DaBigMiko (formerly VELLUNEA) is a soundspace for nostalgia, shadows, and memory fragments. music for late night walks, sleepless longing, and moments that never quite fade.</p>
 </section>
 
 <section>
@@ -133,15 +133,15 @@ hero: false
 
 <section>
   <h2>contact</h2>
-  <p>instagram: <a href="https://instagram.com/vellunea.music" target="_blank">@vellunea.music</a></p>
-  <p>email: <a href="mailto:vellunea.music@gmail.com">vellunea.music@gmail.com</a></p>
+  <p>instagram: <a href="https://instagram.com/dabigmiko" target="_blank">@dabigmiko</a></p>
+  <p>email: <a href="mailto:dabigmiko@gmail.com">dabigmiko@gmail.com</a></p>
 </section>
 
 <section>
   <h2>Join the Email List</h2>
   <p>Be the first to know about new releases, shows, and special updates.</p>
 
-  <form action="https://buttondown.email/api/emails/embed-subscribe/vellunea" method="post" target="_self">
+  <form action="https://buttondown.email/api/emails/embed-subscribe/dabigmiko" method="post" target="_self">
     <input type="email" name="email" id="bd-email" placeholder="Your email" required style="padding: 10px; margin-right: 10px; border-radius: 4px; border: none; width: 200px;" />
     <input type="submit" value="Subscribe" class="pulse-hover" style="padding: 10px 20px; background-color: var(--accent); color: #1a1a2e; border: none; border-radius: 4px; cursor: pointer;" />
   </form>

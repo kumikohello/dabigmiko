@@ -12,13 +12,13 @@ title: Contact
     </a>
   </li>
   <li>
-    <a href="https://instagram.com/vellunea.music" target="_blank">
-      Instagram: @vellunea.music
+    <a href="https://instagram.com/dabigmiko" target="_blank">
+      Instagram: @dabigmiko
     </a>
   </li>
   <li>
-    <a href="mailto:vellunea.music@gmail.com">
-      Email: vellunea.music@gmail.com
+    <a href="mailto:dabigmiko@gmail.com">
+      Email: dabigmiko@gmail.com
     </a>
   </li>
 </ul>

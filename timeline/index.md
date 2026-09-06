@@ -129,7 +129,7 @@ title: Timeline
         <p class="tl-date">ongoing</p>
         <h3>follow the process</h3>
         <p>behind-the-scenes updates as the EP era continues.</p>
-        <a class="tl-link" href="https://instagram.com/vellunea.music" target="_blank">@vellunea.music &rarr;</a>
+        <a class="tl-link" href="https://instagram.com/dabigmiko" target="_blank">@dabigmiko &rarr;</a>
       </div>
     </div>
 
